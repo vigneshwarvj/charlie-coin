@@ -11,7 +11,7 @@ const Front = () => {
 
   return (
     <section className="relative flex flex-col items-center text-center bg-[#EFC3A4] py-16 px-6" id='home'>
-        <img
+      {/* <img
           src="https://meme-coin77.netlify.app/img/core-img/c-left.png"
           alt="Tree Left"
           className="absolute left-0 bottom-0 top-0 h-90"
@@ -22,7 +22,7 @@ const Front = () => {
           alt="Tree Right"
           className="absolute right-0 bottom-0 top-0 h-90"
           data-aos="fade-left"
-        />
+        /> */}
 
         <img
           src={logo}
